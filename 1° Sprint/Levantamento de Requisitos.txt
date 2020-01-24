@@ -1,0 +1,88 @@
+						*** Levantamento de Requisitos ***
+
+
+
+- O que o cliente deseja;
+
+- Necessidades;
+
+- Refatoração;
+
+- Planejar;
+
+- Funcionalidade;
+
+- Negócio;
+
+- Protipação;
+
+- Diagrama de casos de uso;
+
+- Diagrama de classes;
+
+- Doccumentação.
+
+===========================================================================================================================================
+
+				"Requisitos são solicitações, desejos, necessidades. 
+			Um requisito é a propriedade que um software exibe para solucionar problemas reais,
+ 				é a conjuntura indispensável para satisfazer um objeto."
+
+
+Requisito funcional : é aquilo que o sistema precisa ter. (CRUD)
+
+
+Requisito ñ funional : referente a desempenho, segurança...
+
+
+Regra de negócio : é um conjunto de instruções que os usuários já seguem e que o sistema a ser desenvolvido deve contemplar.
+
+
+Requisito de software: são as ações que o software deve executar, 
+ possuindo características e condições próprias, de forma a automatizar uma tarefa de um processo de negócio. 
+ Aqui definimos os requisitos funcionais e não funcionais, e, conforme o método IRON, Requisitos de Dados e Regras de Execução.
+
+
+Diagrama de casos de uso : Esse diagrama documenta o que o sistema faz do ponto de vista do usuário. 
+ Em outras palavras, ele descreve as principais funcionalidades do sistema e a interação dessas funcionalidades com os usuários do mesmo sistema. 
+ Nesse diagrama não nos aprofundamos em detalhes técnicos que dizem como o sistema faz.
+
+	*** Diagramas de Casos de Uso são compostos basicamente por quatro partes:
+
+		Cenário: Sequência de eventos que acontecem quando um usuário interage com o sistema.
+		Ator: Usuário do sistema, ou melhor, um tipo de usuário.
+		Use Case: É uma tarefa ou uma funcionalidade realizada pelo ator (usuário).
+		Comunicação: é o que liga um ator com um caso de uso.
+
+
+		UML é um acrônimo para a expressão Unified Modeling Language. Pela definição de seu nome, 
+	vemos que a UML é uma linguagem que define uma série de artefatos que nos ajuda na tarefa de modelar e documentar os sistemas orientados a objetos que desenvolvemos.
+
+		Ela possui nove tipos de diagramas que são usados para documentar e modelar diversos aspectos dos sistemas.
+
+
+
+Diagrama de classes :  é uma representação da estrutura e relações das classes que servem de modelo para objetos. 
+ Podemos afirmar de maneira mais simples que seria um conjunto de objetos com as mesmas características, 
+ assim saberemos identificar objetos e agrupá-los, de forma a encontrar suas respectivas classes. 
+ Na Unified Modeling Language (UML) em diagrama de classe, 
+ uma classe é representada por um retângulo com três divisões, são elas: O nome da classe, seus atributos e por fim os métodos.
+
+===========================================================================================================================================
+
+							*** Regra dos 3B's ***
+
+
+				Bom 				Bonito 				Barato
+
+
+bom + barato !== bonito;
+
+bom + bonito !== barato;
+
+bonito + barato ==! bom;
+
+bom + bonito + barato === undefined.
+
+===========================================================================================================================================
+
