@@ -29,13 +29,13 @@
  				é a conjuntura indispensável para satisfazer um objeto."
 
 
-Requisito funcional : é aquilo que o sistema precisa ter. (CRUD)
+(RF001) Requisito funcional : é aquilo que o sistema precisa ter. (CRUD)
 
 
-Requisito ñ funional : referente a desempenho, segurança...
+(RNF001) Requisito ñ funional : referente a desempenho, segurança, usabilidade, confiabilidade.
 
 
-Regra de negócio : é um conjunto de instruções que os usuários já seguem e que o sistema a ser desenvolvido deve contemplar.
+(RN001) Regra de negócio : é a condição imposta pra que ele atenda.
 
 
 Requisito de software: são as ações que o software deve executar, 
