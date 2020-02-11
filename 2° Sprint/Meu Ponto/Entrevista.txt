@@ -18,7 +18,7 @@
 - confirmação pelo email / tipo de validação;
 - qual instituição ele pertence;
 - um adm para o sindicado
-- comprovante de registro de ponto do trabalho: NOME DO LOCAL, CPF/CNPJ, CEI, END, CIDADE, CEP, NOME, PIS, NSR;
+- comprovante de registro de ponto do trabalho: NOME DO LOCAL, CPF/CNPJ, END, CIDADE, CEP, NOME, PIS;
 - validação mensal;
 - comprovante de afastamento / dias ñ letivos / feriados.
 - 
