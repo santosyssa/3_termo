@@ -1,0 +1,28 @@
+
+  				 					
+									**** Meu Ponto ****
+
+
+- problema com a visualização do comprovante, batente de ponto;
+- fácil perca.
+
+
+
+- objetivo totalmente do funcionário;
+- forma de envio ao superior;
+- tirar foto do comprovante;
+- mobile;
+- sobre a identidade visual, seria mais intuitivo, fácil;
+- nosso critério paleta de cores;
+- nif do funcionário, login pelo email ou nif;
+- confirmação pelo email / tipo de validação;
+- qual instituição ele pertence;
+- um adm para o sindicado
+- comprovante de registro de ponto do trabalho: NOME DO LOCAL, CPF/CNPJ, CEI, END, CIDADE, CEP, NOME, PIS, NSR;
+- validação mensal;
+- comprovante de afastamento / dias ñ letivos / feriados.
+- 
+
+
+- função de gps / ponto seja automático,
+- lembrente de ponto
