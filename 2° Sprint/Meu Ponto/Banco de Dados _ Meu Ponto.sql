@@ -40,10 +40,10 @@ Insert into Usuario (Nome,Pis,IdUnidade,Email,Senha,TipoUsuario) values ('Admini
 
 delete from Usuario
 
-Insert into Comprovante (Horario,IdUsuario,Nsr) values (GETDATE(),1,'234565432')
+Insert into Comprovante (Horario,IdUsuario,Nsr,Imagem) values (GETDATE(),2,'234565432','dasdsadas')
 
 
-select* from Usuario
+select* from Comprovante
 
 Select * From Usuario Join Unidades on Usuario.IdUnidade = Unidades.NumeroUnidade
 
