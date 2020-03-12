@@ -2,25 +2,25 @@
 
 
 
-- O que o cliente deseja;
+- O que o cliente deseja - o que ele precisa para facilitar seu dia a dia;
 
-- Necessidades;
+- Necessidades - o que tem causado conflito no cotidiano;
 
-- Refatoração;
+- Refatoração - melhorar o código;
 
-- Planejar;
+- Planejar - como irá montar seu projeto;
 
-- Funcionalidade;
+- Funcionalidade - o que será colocado para funcionar no projeto;
 
-- Negócio;
+- Negócio - valores;
 
-- Protipação;
+- Protipação - montagem do projeto;
 
 - Diagrama de casos de uso;
 
 - Diagrama de classes;
 
-- Doccumentação.
+- Documentação.
 
 ===========================================================================================================================================
 
